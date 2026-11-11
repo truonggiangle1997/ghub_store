@@ -1,16 +1,17 @@
 {
   "hub": {
-    "version": "1.0.0",
+    "version": "1.0.0-beta.1",
     "version_code": 1,
-    "changelog": "- Ra mắt ứng dụng GHub đa nền tảng (Android & Windows)\n- Tự động nhận diện phiên bản và cập nhật tức thì",
+    "is_beta": true,
+    "changelog": "- Ra mắt ứng dụng GHub đa nền tảng (Android & Windows) - Bản thử nghiệm Beta\n- Tự động nhận diện phiên bản và cập nhật tức thì",
     "force_update": false,
     "platforms": {
       "android": {
-        "download_url": "https://github.com/truonggiangle1997/ghub_store/releases/download/v1.0.0/ghub.apk",
+        "download_url": "https://github.com/truonggiangle1997/ghub_store/releases/download/v1.0.0-beta.1/ghub.apk",
         "file_size": "22.5 MB"
       },
       "windows": {
-        "download_url": "https://github.com/truonggiangle1997/ghub_store/releases/download/v1.0.0/ghub-windows.zip",
+        "download_url": "https://github.com/truonggiangle1997/ghub_store/releases/download/v1.0.0-beta.1/ghub-windows.zip",
         "file_size": "19.0 MB"
       }
     }
@@ -22,17 +23,18 @@
       "icon_url": "https://raw.githubusercontent.com/truonggiangle1997/ghub_store/main/assets/icons/am_nhac_dai_phap.png",
       "description": "Ứng dụng nghe nhạc & âm thanh chuyên sâu.",
       "category": "Âm nhạc & Thư giãn",
+      "is_beta": true,
       "platforms": {
         "android": {
           "package_name": "com.tianyin.tianyin",
-          "version": "1.0.0",
+          "version": "1.0.0-beta.4",
           "version_code": 4,
-          "download_url": "https://github.com/truonggiangle1997/ghub_store/releases/download/am_nhac_dai_phap-v1.0.0/am_nhac_dai_phap.apk",
+          "download_url": "https://github.com/truonggiangle1997/ghub_store/releases/download/am_nhac_dai_phap-v1.0.0-beta.4/am_nhac_dai_phap.apk",
           "file_size": "45.2 MB",
           "changelog": "• Tối ưu hiệu năng âm thanh nền\n• Cập nhật danh sách bài hát mới"
         },
         "ios": {
-          "version": "1.0.0",
+          "version": "1.0.0-beta.4",
           "testflight_url": "https://testflight.apple.com/join/demo123"
         }
       }
@@ -43,12 +45,13 @@
       "icon_url": "https://raw.githubusercontent.com/truonggiangle1997/ghub_store/main/assets/icons/dafa.png",
       "description": "Ứng dụng tiện ích tu luyện.",
       "category": "Tiện ích",
+      "is_beta": true,
       "platforms": {
         "android": {
           "package_name": "org.daiphap.cultivation_tools",
-          "version": "1.0.0",
+          "version": "1.0.0-beta.1",
           "version_code": 1,
-          "download_url": "https://github.com/truonggiangle1997/ghub_store/releases/download/dafa_tools-v1.0.0/dafa_tools.apk",
+          "download_url": "https://github.com/truonggiangle1997/ghub_store/releases/download/dafa_tools-v1.0.0-beta.1/dafa_tools.apk",
           "file_size": "32.8 MB",
           "changelog": "• Bổ sung các bài chia sẻ mới\n• Nâng cấp bộ đọc tài liệu"
         }
