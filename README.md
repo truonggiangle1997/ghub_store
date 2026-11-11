@@ -11,7 +11,7 @@ Kho lưu trữ phân phối và cập nhật ứng dụng tự động dành cho
 |:---|:---|:---:|:---:|:---:|
 | **GHub** | Android, Windows | `v1.0.0-beta.2` | [![Beta](https://img.shields.io/badge/Trạng_thái-Beta-f97316?style=flat-square)](#) | [Tải GHub](https://github.com/truonggiangle1997/ghub_store/releases/tag/ghub-v1.0.0-beta.2) |
 | **Âm nhạc Đại Pháp** | Android | `v1.0.0-beta.5` | [![Beta](https://img.shields.io/badge/Trạng_thái-Beta-f97316?style=flat-square)](#) | Tải qua GHub |
-| **Dafa tools** | Android | `v1.0.0-beta.1` | [![Beta](https://img.shields.io/badge/Trạng_thái-Beta-f97316?style=flat-square)](#) | Tải qua GHub |
+| **Dafa tools** | Android | `v1.0.0-beta.2` | [![Beta](https://img.shields.io/badge/Trạng_thái-Beta-f97316?style=flat-square)](#) | Tải qua GHub |
 
 ## Metadata API
 Endpoint lấy danh mục ứng dụng trực tiếp cho GHub:
