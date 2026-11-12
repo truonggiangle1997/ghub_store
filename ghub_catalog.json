@@ -31,10 +31,10 @@
       "platforms": {
         "android": {
           "package_name": "com.tianyin.tianyin",
-          "version": "1.0.0-beta.7",
-          "version_code": 7,
+          "version": "1.0.0-beta.8",
+          "version_code": 8,
           "download_url": "https://drive.usercontent.google.com/download?id=15KWZs3gGc5sBhH-LyHPhLmyWIKjsUBc-&export=download&confirm=t",
-          "file_size": "57.0 MB",
+          "file_size": "57.1 MB",
           "changelog": "• Tối ưu hiệu năng âm thanh nền\n• Cập nhật danh sách bài hát mới"
         },
         "ios": {
