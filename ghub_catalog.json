@@ -53,10 +53,10 @@
       "platforms": {
         "android": {
           "package_name": "org.daiphap.cultivation_tools",
-          "version": "1.0.0-beta.5",
-          "version_code": 5,
+          "version": "1.0.0-beta.6",
+          "version_code": 6,
           "download_url": "https://drive.usercontent.google.com/download?id=1YP87jDYs6u1KGYO3WtFb1kmT61zoQgV5&export=download&confirm=t",
-          "file_size": "85.7 MB",
+          "file_size": "85.6 MB",
           "changelog": "• Bổ sung các bài chia sẻ mới\n• Nâng cấp bộ đọc tài liệu"
         }
       }
