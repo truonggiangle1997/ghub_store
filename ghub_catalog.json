@@ -31,11 +31,25 @@
       "platforms": {
         "android": {
           "package_name": "com.tianyin.tianyin",
-          "version": "1.0.0-beta.11",
-          "version_code": 11,
-          "download_url": "https://drive.usercontent.google.com/download?id=15KWZs3gGc5sBhH-LyHPhLmyWIKjsUBc-&export=download&confirm=t",
-          "file_size": "57.1 MB",
-          "changelog": "• Tối ưu hiệu năng âm thanh nền\n• Cập nhật danh sách bài hát mới"
+          "version": "1.0.0-beta.12",
+          "version_code": 12,
+          "download_url": "https://drive.usercontent.google.com/download?id=11T4vEQz5LHfnZZPTWCQHPJkqcvAcj5-J&export=download&confirm=t",
+          "file_size": "20.4 MB",
+          "changelog": "• Tối ưu hiệu năng âm thanh nền\n• Cập nhật danh sách bài hát mới",
+          "abi_variants": {
+            "arm64-v8a": {
+              "download_url": "https://drive.usercontent.google.com/download?id=11T4vEQz5LHfnZZPTWCQHPJkqcvAcj5-J&export=download&confirm=t",
+              "file_size": "20.4 MB"
+            },
+            "armeabi-v7a": {
+              "download_url": "https://drive.usercontent.google.com/download?id=1ZFykTL889OdURMmtSF40e_F7uZRCOh3m&export=download&confirm=t",
+              "file_size": "18.5 MB"
+            },
+            "x86_64": {
+              "download_url": "https://drive.usercontent.google.com/download?id=1VTmQg618RM1rSdWPJLctUg0EDRsZuPLn&export=download&confirm=t",
+              "file_size": "21.9 MB"
+            }
+          }
         },
         "ios": {
           "version": "1.0.0-beta.4",
