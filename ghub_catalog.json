@@ -1,22 +1,22 @@
 {
   "hub": {
-    "version": "1.0.0-beta.4",
-    "version_code": 4,
+    "version": "1.0.0-beta.5",
+    "version_code": 5,
     "is_beta": true,
     "changelog": "- Ra mắt ứng dụng GHub đa nền tảng (Android & Windows) - Bản thử nghiệm Beta\n- Tự động nhận diện phiên bản và cập nhật tức thì",
     "force_update": false,
     "platforms": {
       "android": {
-        "download_url": "https://github.com/truonggiangle1997/ghub_store/releases/download/ghub-v1.0.0-beta.4/ghub.apk",
+        "download_url": "https://github.com/truonggiangle1997/ghub_store/releases/download/ghub-v1.0.0-beta.5/ghub.apk",
         "file_size": "56.0 MB",
-        "version": "1.0.0-beta.4",
-        "version_code": 4
+        "version": "1.0.0-beta.5",
+        "version_code": 5
       },
       "windows": {
-        "download_url": "https://github.com/truonggiangle1997/ghub_store/releases/download/ghub-v1.0.0-beta.4/ghub-windows.zip",
+        "download_url": "https://github.com/truonggiangle1997/ghub_store/releases/download/ghub-v1.0.0-beta.5/ghub-windows.zip",
         "file_size": "11.8 MB",
-        "version": "1.0.0-beta.4",
-        "version_code": 4
+        "version": "1.0.0-beta.5",
+        "version_code": 5
       }
     }
   },
