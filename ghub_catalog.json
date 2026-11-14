@@ -67,11 +67,25 @@
       "platforms": {
         "android": {
           "package_name": "org.daiphap.cultivation_tools",
-          "version": "1.0.0-beta.7",
-          "version_code": 7,
-          "download_url": "https://drive.usercontent.google.com/download?id=1YP87jDYs6u1KGYO3WtFb1kmT61zoQgV5&export=download&confirm=t",
-          "file_size": "85.4 MB",
-          "changelog": "• Bổ sung các bài chia sẻ mới\n• Nâng cấp bộ đọc tài liệu"
+          "version": "1.0.0-beta.9",
+          "version_code": 9,
+          "download_url": "https://drive.usercontent.google.com/download?id=1HktrfU3kywwDIsRIKnsN3RG7afV8EA5_&export=download&confirm=t",
+          "file_size": "34.5 MB",
+          "changelog": "• Bổ sung các bài chia sẻ mới\n• Nâng cấp bộ đọc tài liệu",
+          "abi_variants": {
+            "arm64-v8a": {
+              "download_url": "https://drive.usercontent.google.com/download?id=1HktrfU3kywwDIsRIKnsN3RG7afV8EA5_&export=download&confirm=t",
+              "file_size": "34.5 MB"
+            },
+            "armeabi-v7a": {
+              "download_url": "https://drive.usercontent.google.com/download?id=1R7S4pp-gG_4gtOFUWwaNx5TCqS8vkz3W&export=download&confirm=t",
+              "file_size": "30.3 MB"
+            },
+            "x86_64": {
+              "download_url": "https://drive.usercontent.google.com/download?id=1a-DzmNRxu31qrpySxVDsoltyCdStC9zy&export=download&confirm=t",
+              "file_size": "36.3 MB"
+            }
+          }
         }
       }
     }
