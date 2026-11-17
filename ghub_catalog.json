@@ -7,10 +7,10 @@
     "force_update": false,
     "platforms": {
       "android": {
-        "download_url": "https://github.com/truonggiangle1997/ghub_store/releases/download/ghub-v1.0.0-beta.9/ghub.apk",
-        "file_size": "59.8 MB",
-        "version": "1.0.0-beta.9",
-        "version_code": 9
+        "download_url": "https://github.com/truonggiangle1997/ghub_store/releases/download/ghub-v1.0.0-beta.10/ghub.apk",
+        "file_size": "57.6 MB",
+        "version": "1.0.0-beta.10",
+        "version_code": 10
       },
       "windows": {
         "download_url": "https://github.com/truonggiangle1997/ghub_store/releases/download/ghub-v1.0.0-beta.10/ghub-windows.zip",
