@@ -67,23 +67,23 @@
       "platforms": {
         "android": {
           "package_name": "org.daiphap.cultivation_tools",
-          "version": "1.0.0-beta.10",
-          "version_code": 10,
+          "version": "1.0.0-beta.11",
+          "version_code": 11,
           "download_url": "https://drive.usercontent.google.com/download?id=1HktrfU3kywwDIsRIKnsN3RG7afV8EA5_&export=download&confirm=t",
-          "file_size": "34.6 MB",
+          "file_size": "36.0 MB",
           "changelog": "• Bổ sung các bài chia sẻ mới\n• Nâng cấp bộ đọc tài liệu",
           "abi_variants": {
             "arm64-v8a": {
               "download_url": "https://drive.usercontent.google.com/download?id=1HktrfU3kywwDIsRIKnsN3RG7afV8EA5_&export=download&confirm=t",
-              "file_size": "34.6 MB"
+              "file_size": "36.0 MB"
             },
             "armeabi-v7a": {
               "download_url": "https://drive.usercontent.google.com/download?id=1R7S4pp-gG_4gtOFUWwaNx5TCqS8vkz3W&export=download&confirm=t",
-              "file_size": "30.4 MB"
+              "file_size": "32.1 MB"
             },
             "x86_64": {
               "download_url": "https://drive.usercontent.google.com/download?id=1a-DzmNRxu31qrpySxVDsoltyCdStC9zy&export=download&confirm=t",
-              "file_size": "36.4 MB"
+              "file_size": "37.6 MB"
             }
           }
         }
