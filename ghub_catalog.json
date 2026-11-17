@@ -88,6 +88,26 @@
           }
         }
       }
+    },
+    {
+      "id": "presentation_tools",
+      "name": "Tiện ích trình chiếu",
+      "icon_url": "https://raw.githubusercontent.com/truonggiangle1997/ghub_store/main/assets/icons/presentation_tools.png",
+      "description": "Điều khiển trình chiếu video Shen Yun Creations, YouTube, video ngoại tuyến và PowerPoint đa màn hình.",
+      "category": "Tiện ích",
+      "is_beta": true,
+      "platforms": {
+        "windows": {
+          "app_id": "presentation_tools",
+          "exe_name": "presentation-tools.exe",
+          "version": "1.0.0-beta.1",
+          "version_code": 1,
+          "download_url": "https://drive.usercontent.google.com/download?id=1J3HufCjfD6y45eksooQ8iHm32QdPYFc_&export=download&confirm=t",
+          "installer_type": "zip",
+          "file_size": "3.3 MB",
+          "changelog": "• Ra mắt Tiện ích trình chiếu trên GHub (Beta)"
+        }
+      }
     }
   ]
 }
