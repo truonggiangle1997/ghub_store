@@ -31,15 +31,15 @@
       "platforms": {
         "android": {
           "package_name": "com.tianyin.tianyin",
-          "version": "1.0.0-beta.18",
-          "version_code": 18,
+          "version": "1.0.0-beta.19",
+          "version_code": 19,
           "download_url": "https://drive.usercontent.google.com/download?id=11T4vEQz5LHfnZZPTWCQHPJkqcvAcj5-J&export=download&confirm=t",
-          "file_size": "23.2 MB",
+          "file_size": "23.3 MB",
           "changelog": "• Tối ưu hiệu năng âm thanh nền\n• Cập nhật danh sách bài hát mới",
           "abi_variants": {
             "arm64-v8a": {
               "download_url": "https://drive.usercontent.google.com/download?id=11T4vEQz5LHfnZZPTWCQHPJkqcvAcj5-J&export=download&confirm=t",
-              "file_size": "23.2 MB"
+              "file_size": "23.3 MB"
             },
             "armeabi-v7a": {
               "download_url": "https://drive.usercontent.google.com/download?id=1ZFykTL889OdURMmtSF40e_F7uZRCOh3m&export=download&confirm=t",
@@ -47,7 +47,7 @@
             },
             "x86_64": {
               "download_url": "https://drive.usercontent.google.com/download?id=1VTmQg618RM1rSdWPJLctUg0EDRsZuPLn&export=download&confirm=t",
-              "file_size": "24.6 MB"
+              "file_size": "24.5 MB"
             }
           }
         },
