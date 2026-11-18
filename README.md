@@ -9,7 +9,7 @@ Kho lưu trữ phân phối và cập nhật ứng dụng tự động dành cho
 
 | Ứng dụng | Nền tảng | Phiên bản | Trạng thái | Tải về |
 |:---|:---|:---:|:---:|:---:|
-| **GHub** | Android, Windows | `v1.0.0-beta.12` | [![Beta](https://img.shields.io/badge/Trạng_thái-Beta-f97316?style=flat-square)](#) | [Tải GHub](https://github.com/truonggiangle1997/ghub_store/releases/tag/ghub-v1.0.0-beta.12) |
+| **GHub** | Android, Windows | `v1.0.0-beta.13` | [![Beta](https://img.shields.io/badge/Trạng_thái-Beta-f97316?style=flat-square)](#) | [Tải GHub](https://github.com/truonggiangle1997/ghub_store/releases/tag/ghub-v1.0.0-beta.13) |
 | **Âm nhạc Đại Pháp** | Android | `v1.0.0-beta.18` | [![Beta](https://img.shields.io/badge/Trạng_thái-Beta-f97316?style=flat-square)](#) | Tải qua GHub |
 | **Dafa tools** | Android | `v1.0.0-beta.15` | [![Beta](https://img.shields.io/badge/Trạng_thái-Beta-f97316?style=flat-square)](#) | Tải qua GHub |
 | **Tiện ích trình chiếu** | Windows | `v1.0.0-beta.6` | [![Beta](https://img.shields.io/badge/Trạng_thái-Beta-f97316?style=flat-square)](#) | Tải qua GHub |
