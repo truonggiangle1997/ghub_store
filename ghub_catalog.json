@@ -100,8 +100,8 @@
         "windows": {
           "app_id": "presentation_tools",
           "exe_name": "presentation-tools.exe",
-          "version": "1.0.0-beta.13",
-          "version_code": 13,
+          "version": "1.0.0-beta.14",
+          "version_code": 14,
           "download_url": "https://drive.usercontent.google.com/download?id=1jjW_2652KftISbjvxNYYYGBTrlNvhOg6&export=download&confirm=t",
           "installer_type": "exe",
           "file_size": "5.3 MB",
