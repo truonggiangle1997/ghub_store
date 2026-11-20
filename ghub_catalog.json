@@ -101,12 +101,12 @@
         "windows": {
           "app_id": "presentation_tools",
           "exe_name": "presentation-tools.exe",
-          "version": "1.0.0-beta.14",
-          "version_code": 14,
+          "version": "1.0.0-beta.15",
+          "version_code": 15,
           "download_url": "https://drive.usercontent.google.com/download?id=1jjW_2652KftISbjvxNYYYGBTrlNvhOg6&export=download&confirm=t",
           "installer_type": "exe",
           "file_size": "5.3 MB",
-          "changelog": "• Ra mắt Tiện ích trình chiếu trên GHub (Beta)"
+          "changelog": "• Tối ưu toàn diện cơ chế RAM & tải trước (prewarm): đóng tab cũ để giải phóng RAM thật và tự động luân chuyển cửa sổ tab ấm\n• Giữ ổn định ngân sách RAM & khóa chất lượng 1080p từ đầu đến cuối cho Shen Yun Creations\n• Sửa hiển thị trạng thái nạp, mở trình cắt video chính xác và tăng độ ổn định khi đổi chất lượng"
         }
       }
     }
