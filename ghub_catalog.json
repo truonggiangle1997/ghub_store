@@ -28,35 +28,35 @@
       "icon_url": "https://raw.githubusercontent.com/truonggiangle1997/ghub_store/main/assets/icons/am_nhac_dai_phap.png",
       "description": "Ứng dụng nghe nhạc & âm thanh chuyên sâu.",
       "category": "Âm nhạc & Thư giãn",
-      "is_beta": true,
+      "is_beta": false,
       "platforms": {
         "android": {
           "package_name": "com.tianyin.tianyin",
-          "version": "1.0.0-beta.27",
-          "version_code": 27,
+          "version": "1.0.1",
+          "version_code": 29,
           "download_url": "https://drive.usercontent.google.com/download?id=11T4vEQz5LHfnZZPTWCQHPJkqcvAcj5-J&export=download&confirm=t",
-          "file_size": "23.6 MB",
+          "file_size": "23.8 MB",
           "changelog": "• Tối ưu hiệu năng âm thanh nền\n• Cập nhật danh sách bài hát mới",
           "abi_variants": {
             "arm64-v8a": {
               "download_url": "https://drive.usercontent.google.com/download?id=11T4vEQz5LHfnZZPTWCQHPJkqcvAcj5-J&export=download&confirm=t",
-              "file_size": "23.6 MB"
+              "file_size": "23.8 MB"
             },
             "armeabi-v7a": {
               "download_url": "https://drive.usercontent.google.com/download?id=1ZFykTL889OdURMmtSF40e_F7uZRCOh3m&export=download&confirm=t",
-              "file_size": "22.0 MB"
+              "file_size": "22.3 MB"
             },
             "x86_64": {
               "download_url": "https://drive.usercontent.google.com/download?id=1VTmQg618RM1rSdWPJLctUg0EDRsZuPLn&export=download&confirm=t",
-              "file_size": "24.9 MB"
+              "file_size": "25.1 MB"
             }
           }
         },
         "windows": {
           "app_id": "am_nhac_dai_phap",
           "exe_name": "tianyin.exe",
-          "version": "1.0.0-beta.27",
-          "version_code": 27,
+          "version": "1.0.1",
+          "version_code": 29,
           "download_url": "https://drive.usercontent.google.com/download?id=1l1C4FvU8POSh7Hm_LDmRdyCMpnoEC4sL&export=download&confirm=t",
           "installer_type": "zip",
           "file_size": "21.4 MB",
