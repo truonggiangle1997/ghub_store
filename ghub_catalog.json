@@ -74,12 +74,12 @@
       "icon_url": "https://raw.githubusercontent.com/truonggiangle1997/ghub_store/main/assets/icons/dafa.png",
       "description": "Ứng dụng tiện ích tu luyện.",
       "category": "Tiện ích",
-      "is_beta": true,
+      "is_beta": false,
       "platforms": {
         "android": {
           "package_name": "org.daiphap.cultivation_tools",
-          "version": "1.0.1-beta.29",
-          "version_code": 29,
+          "version": "1.0.2",
+          "version_code": 30,
           "download_url": "https://drive.usercontent.google.com/download?id=1HktrfU3kywwDIsRIKnsN3RG7afV8EA5_&export=download&confirm=t",
           "file_size": "36.8 MB",
           "changelog": "• Bổ sung các bài chia sẻ mới\n• Nâng cấp bộ đọc tài liệu",
@@ -94,7 +94,7 @@
             },
             "x86_64": {
               "download_url": "https://drive.usercontent.google.com/download?id=1a-DzmNRxu31qrpySxVDsoltyCdStC9zy&export=download&confirm=t",
-              "file_size": "38.3 MB"
+              "file_size": "38.4 MB"
             }
           }
         }
