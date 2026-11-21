@@ -52,6 +52,16 @@
             }
           }
         },
+        "windows": {
+          "app_id": "am_nhac_dai_phap",
+          "exe_name": "tianyin.exe",
+          "version": "1.0.0-beta.27",
+          "version_code": 27,
+          "download_url": "https://drive.usercontent.google.com/download?id=1l1C4FvU8POSh7Hm_LDmRdyCMpnoEC4sL&export=download&confirm=t",
+          "installer_type": "zip",
+          "file_size": "21.4 MB",
+          "changelog": "• Tối ưu hiệu năng âm thanh nền\n• Cập nhật danh sách bài hát mới"
+        },
         "ios": {
           "version": "1.0.0-beta.4",
           "testflight_url": "https://testflight.apple.com/join/demo123"
