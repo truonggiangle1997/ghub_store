@@ -57,9 +57,9 @@
           "exe_name": "tianyin.exe",
           "version": "1.0.1",
           "version_code": 29,
-          "download_url": "https://drive.usercontent.google.com/download?id=1l1C4FvU8POSh7Hm_LDmRdyCMpnoEC4sL&export=download&confirm=t",
-          "installer_type": "zip",
-          "file_size": "21.4 MB",
+          "download_url": "https://drive.usercontent.google.com/download?id=1J_RZeBaayfbsv6C8I_md6dOkOuypwaiL&export=download&confirm=t",
+          "installer_type": "exe",
+          "file_size": "17.6 MB",
           "changelog": "• Tối ưu hiệu năng âm thanh nền\n• Cập nhật danh sách bài hát mới"
         },
         "ios": {
