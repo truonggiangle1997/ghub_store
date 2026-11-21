@@ -1,16 +1,16 @@
 {
   "hub": {
-    "version": "1.0.2",
-    "version_code": 21,
+    "version": "1.0.3",
+    "version_code": 22,
     "is_beta": false,
-    "changelog": "- Ra mắt ứng dụng GHub đa nền tảng (Android & Windows) - Bản thử nghiệm Beta\n- Tự động nhận diện phiên bản và cập nhật tức thì",
+    "changelog": "- Ký bản phát hành Android bằng Release Keystore chính thức\n- Tự động nhận diện phiên bản và cập nhật tức thì",
     "force_update": false,
     "platforms": {
       "android": {
-        "download_url": "https://github.com/truonggiangle1997/ghub_store/releases/download/ghub-v1.0.2/ghub.apk",
+        "download_url": "https://github.com/truonggiangle1997/ghub_store/releases/download/ghub-v1.0.3/ghub.apk",
         "file_size": "58.5 MB",
-        "version": "1.0.2",
-        "version_code": 21
+        "version": "1.0.3",
+        "version_code": 22
       },
       "windows": {
         "download_url": "https://github.com/truonggiangle1997/ghub_store/releases/download/ghub-v1.0.2/ghub-windows-setup.exe",
@@ -78,22 +78,22 @@
       "platforms": {
         "android": {
           "package_name": "org.daiphap.cultivation_tools",
-          "version": "1.0.2",
-          "version_code": 30,
-          "download_url": "https://drive.usercontent.google.com/download?id=1HktrfU3kywwDIsRIKnsN3RG7afV8EA5_&export=download&confirm=t",
+          "version": "1.0.3",
+          "version_code": 31,
+          "download_url": "https://github.com/truonggiangle1997/ghub_store/releases/download/dafa_tools-v1.0.3/dafa_tools-arm64-v8a.apk",
           "file_size": "36.8 MB",
-          "changelog": "• Bổ sung các bài chia sẻ mới\n• Nâng cấp bộ đọc tài liệu",
+          "changelog": "• Ký bản phát hành Android bằng Release Keystore chính thức\n• Bổ sung các bài chia sẻ mới & nâng cấp bộ đọc tài liệu",
           "abi_variants": {
             "arm64-v8a": {
-              "download_url": "https://drive.usercontent.google.com/download?id=1HktrfU3kywwDIsRIKnsN3RG7afV8EA5_&export=download&confirm=t",
+              "download_url": "https://github.com/truonggiangle1997/ghub_store/releases/download/dafa_tools-v1.0.3/dafa_tools-arm64-v8a.apk",
               "file_size": "36.8 MB"
             },
             "armeabi-v7a": {
-              "download_url": "https://drive.usercontent.google.com/download?id=1R7S4pp-gG_4gtOFUWwaNx5TCqS8vkz3W&export=download&confirm=t",
+              "download_url": "https://github.com/truonggiangle1997/ghub_store/releases/download/dafa_tools-v1.0.3/dafa_tools-armeabi-v7a.apk",
               "file_size": "32.9 MB"
             },
             "x86_64": {
-              "download_url": "https://drive.usercontent.google.com/download?id=1a-DzmNRxu31qrpySxVDsoltyCdStC9zy&export=download&confirm=t",
+              "download_url": "https://github.com/truonggiangle1997/ghub_store/releases/download/dafa_tools-v1.0.3/dafa_tools-x86_64.apk",
               "file_size": "38.4 MB"
             }
           }
