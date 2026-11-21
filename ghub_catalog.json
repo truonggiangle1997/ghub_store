@@ -96,13 +96,13 @@
       "icon_url": "https://raw.githubusercontent.com/truonggiangle1997/ghub_store/main/assets/icons/presentation_tools.png",
       "description": "Điều khiển trình chiếu video Shen Yun Creations, YouTube, video ngoại tuyến và PowerPoint đa màn hình.",
       "category": "Tiện ích",
-      "is_beta": true,
+      "is_beta": false,
       "platforms": {
         "windows": {
           "app_id": "presentation_tools",
           "exe_name": "presentation-tools.exe",
-          "version": "1.0.0-beta.15",
-          "version_code": 15,
+          "version": "1.0.0",
+          "version_code": 16,
           "download_url": "https://drive.usercontent.google.com/download?id=1jjW_2652KftISbjvxNYYYGBTrlNvhOg6&export=download&confirm=t",
           "installer_type": "exe",
           "file_size": "5.3 MB",
