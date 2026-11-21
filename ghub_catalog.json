@@ -1,22 +1,22 @@
 {
   "hub": {
-    "version": "1.0.4",
-    "version_code": 23,
+    "version": "1.0.5",
+    "version_code": 24,
     "is_beta": false,
     "changelog": "- Yêu cầu xác nhận người dùng khi cài đặt APK (USER_ACTION_REQUIRED)\n- Ký bản phát hành Android bằng Release Keystore chính thức",
     "force_update": false,
     "platforms": {
       "android": {
-        "download_url": "https://github.com/truonggiangle1997/ghub_store/releases/download/ghub-v1.0.4/ghub.apk",
+        "download_url": "https://github.com/truonggiangle1997/ghub_store/releases/download/ghub-v1.0.5/ghub.apk",
         "file_size": "58.5 MB",
-        "version": "1.0.4",
-        "version_code": 23
+        "version": "1.0.5",
+        "version_code": 24
       },
       "windows": {
-        "download_url": "https://github.com/truonggiangle1997/ghub_store/releases/download/ghub-v1.0.2/ghub-windows-setup.exe",
+        "download_url": "https://github.com/truonggiangle1997/ghub_store/releases/download/ghub-v1.0.5/ghub-windows-setup.exe",
         "file_size": "10.7 MB",
-        "version": "1.0.2",
-        "version_code": 21,
+        "version": "1.0.5",
+        "version_code": 24,
         "installer_type": "exe"
       }
     }
