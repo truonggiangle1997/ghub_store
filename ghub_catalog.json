@@ -78,22 +78,22 @@
       "platforms": {
         "android": {
           "package_name": "org.daiphap.cultivation_tools",
-          "version": "1.0.3",
-          "version_code": 31,
-          "download_url": "https://github.com/truonggiangle1997/ghub_store/releases/download/dafa_tools-v1.0.3/dafa_tools-arm64-v8a.apk",
+          "version": "1.0.4",
+          "version_code": 32,
+          "download_url": "https://drive.usercontent.google.com/download?id=1HktrfU3kywwDIsRIKnsN3RG7afV8EA5_&export=download&confirm=t",
           "file_size": "36.8 MB",
           "changelog": "• Ký bản phát hành Android bằng Release Keystore chính thức\n• Bổ sung các bài chia sẻ mới & nâng cấp bộ đọc tài liệu",
           "abi_variants": {
             "arm64-v8a": {
-              "download_url": "https://github.com/truonggiangle1997/ghub_store/releases/download/dafa_tools-v1.0.3/dafa_tools-arm64-v8a.apk",
+              "download_url": "https://drive.usercontent.google.com/download?id=1HktrfU3kywwDIsRIKnsN3RG7afV8EA5_&export=download&confirm=t",
               "file_size": "36.8 MB"
             },
             "armeabi-v7a": {
-              "download_url": "https://github.com/truonggiangle1997/ghub_store/releases/download/dafa_tools-v1.0.3/dafa_tools-armeabi-v7a.apk",
+              "download_url": "https://drive.usercontent.google.com/download?id=1R7S4pp-gG_4gtOFUWwaNx5TCqS8vkz3W&export=download&confirm=t",
               "file_size": "32.9 MB"
             },
             "x86_64": {
-              "download_url": "https://github.com/truonggiangle1997/ghub_store/releases/download/dafa_tools-v1.0.3/dafa_tools-x86_64.apk",
+              "download_url": "https://drive.usercontent.google.com/download?id=1a-DzmNRxu31qrpySxVDsoltyCdStC9zy&export=download&confirm=t",
               "file_size": "38.4 MB"
             }
           }
