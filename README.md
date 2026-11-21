@@ -11,7 +11,7 @@ Kho lưu trữ phân phối và cập nhật ứng dụng tự động dành cho
 |:---|:---|:---:|:---:|:---:|
 | **GHub** | Android, Windows | `v1.0.0-beta.18` | [![Beta](https://img.shields.io/badge/Trạng_thái-Beta-f97316?style=flat-square)](#) | [Tải GHub](https://github.com/truonggiangle1997/ghub_store/releases/tag/ghub-v1.0.0-beta.18) |
 | **Âm nhạc Đại Pháp** | Android, Windows | `v1.0.0-beta.27` | [![Beta](https://img.shields.io/badge/Trạng_thái-Beta-f97316?style=flat-square)](#) | Tải qua GHub |
-| **Dafa tools** | Android | `v1.0.0-beta.27` | [![Beta](https://img.shields.io/badge/Trạng_thái-Beta-f97316?style=flat-square)](#) | Tải qua GHub |
+| **Dafa tools** | Android | `v1.0.0-beta.28` | [![Beta](https://img.shields.io/badge/Trạng_thái-Beta-f97316?style=flat-square)](#) | Tải qua GHub |
 | **Tiện ích trình chiếu** | Windows | `v1.0.1` | [![Stable](https://img.shields.io/badge/Trạng_thái-Stable-10b981?style=flat-square)](#) | Tải qua GHub |
 
 ## Metadata API
