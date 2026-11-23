@@ -32,8 +32,8 @@
       "platforms": {
         "android": {
           "package_name": "com.tianyin.tianyin",
-          "version": "1.0.5",
-          "version_code": 33,
+          "version": "1.0.6",
+          "version_code": 34,
           "download_url": "https://drive.usercontent.google.com/download?id=11T4vEQz5LHfnZZPTWCQHPJkqcvAcj5-J&export=download&confirm=t",
           "file_size": "23.9 MB",
           "changelog": "• Tối ưu hiệu năng âm thanh nền\n• Cập nhật danh sách bài hát mới",
@@ -55,8 +55,8 @@
         "windows": {
           "app_id": "am_nhac_dai_phap",
           "exe_name": "tianyin.exe",
-          "version": "1.0.5",
-          "version_code": 33,
+          "version": "1.0.6",
+          "version_code": 34,
           "download_url": "https://drive.usercontent.google.com/download?id=1J_RZeBaayfbsv6C8I_md6dOkOuypwaiL&export=download&confirm=t",
           "installer_type": "exe",
           "file_size": "17.6 MB",
