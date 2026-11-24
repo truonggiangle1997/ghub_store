@@ -10,7 +10,7 @@ Kho lưu trữ phân phối và cập nhật ứng dụng tự động dành cho
 | Ứng dụng | Nền tảng | Phiên bản | Trạng thái | Tải về |
 |:---|:---|:---:|:---:|:---:|
 | **GHub** | Android, Windows | `v1.0.6` | [![Stable](https://img.shields.io/badge/Trạng_thái-Stable-10b981?style=flat-square)](#) | [Tải GHub](https://github.com/truonggiangle1997/ghub_store/releases/tag/ghub-v1.0.6) |
-| **Âm nhạc Đại Pháp** | Android, Windows | `v1.0.7` | [![Stable](https://img.shields.io/badge/Trạng_thái-Stable-10b981?style=flat-square)](#) | Tải qua GHub |
+| **Âm nhạc Đại Pháp** | Android, Windows | `v1.0.8` | [![Stable](https://img.shields.io/badge/Trạng_thái-Stable-10b981?style=flat-square)](#) | Tải qua GHub |
 | **Dafa tools** | Android | `v1.0.9` | [![Stable](https://img.shields.io/badge/Trạng_thái-Stable-10b981?style=flat-square)](#) | Tải qua GHub |
 | **Tiện ích trình chiếu** | Windows | `v1.0.6` | [![Stable](https://img.shields.io/badge/Trạng_thái-Stable-10b981?style=flat-square)](#) | Tải qua GHub |
 
