@@ -111,11 +111,11 @@
         "windows": {
           "app_id": "presentation_tools",
           "exe_name": "presentation-tools.exe",
-          "version": "1.0.6",
-          "version_code": 22,
+          "version": "1.0.7",
+          "version_code": 23,
           "download_url": "https://drive.usercontent.google.com/download?id=1jjW_2652KftISbjvxNYYYGBTrlNvhOg6&export=download&confirm=t",
           "installer_type": "exe",
-          "file_size": "5.3 MB",
+          "file_size": "5.5 MB",
           "changelog": "• Tối ưu toàn diện cơ chế RAM & tải trước (prewarm): đóng tab cũ để giải phóng RAM thật và tự động luân chuyển cửa sổ tab ấm\n• Giữ ổn định ngân sách RAM & khóa chất lượng 1080p từ đầu đến cuối cho Shen Yun Creations\n• Sửa hiển thị trạng thái nạp, mở trình cắt video chính xác và tăng độ ổn định khi đổi chất lượng"
         }
       }
