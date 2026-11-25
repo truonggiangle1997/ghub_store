@@ -111,8 +111,8 @@
         "windows": {
           "app_id": "presentation_tools",
           "exe_name": "presentation-tools.exe",
-          "version": "1.0.7",
-          "version_code": 23,
+          "version": "1.0.8",
+          "version_code": 24,
           "download_url": "https://drive.usercontent.google.com/download?id=1jjW_2652KftISbjvxNYYYGBTrlNvhOg6&export=download&confirm=t",
           "installer_type": "exe",
           "file_size": "5.5 MB",
