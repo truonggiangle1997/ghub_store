@@ -1,22 +1,22 @@
 {
   "hub": {
-    "version": "1.0.9",
-    "version_code": 28,
+    "version": "1.0.10",
+    "version_code": 29,
     "is_beta": false,
     "changelog": "- Sửa lỗi bị Google Play Protect chặn khi cài đặt (đổi mã gói sang vn.truonggiang.ghub, ký bằng khóa mới)\\n- Cài đặt APK qua trình cài đặt hệ thống, gỡ quyền QUERY_ALL_PACKAGES",
     "force_update": false,
     "platforms": {
       "android": {
-        "download_url": "https://github.com/truonggiangle1997/ghub_store/releases/download/ghub-v1.0.9/ghub.apk",
+        "download_url": "https://github.com/truonggiangle1997/ghub_store/releases/download/ghub-v1.0.10/ghub.apk",
         "file_size": "58.4 MB",
-        "version": "1.0.9",
-        "version_code": 28
+        "version": "1.0.10",
+        "version_code": 29
       },
       "windows": {
-        "download_url": "https://github.com/truonggiangle1997/ghub_store/releases/download/ghub-v1.0.9/ghub-windows-setup.exe",
+        "download_url": "https://github.com/truonggiangle1997/ghub_store/releases/download/ghub-v1.0.10/ghub-windows-setup.exe",
         "file_size": "10.7 MB",
-        "version": "1.0.9",
-        "version_code": 28,
+        "version": "1.0.10",
+        "version_code": 29,
         "installer_type": "exe"
       }
     }
